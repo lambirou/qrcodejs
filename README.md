@@ -40,7 +40,5 @@ IE6~10, Chrome, Firefox, Safari, Opera, Mobile Safari, Android, Windows Mobile, 
 MIT License
 
 ## Contact
-twitter @davidshimjs
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/davidshimjs/qrcodejs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+twitter @lambirou225
 
